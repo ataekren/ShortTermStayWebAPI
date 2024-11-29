@@ -1,11 +1,9 @@
 # Short Term Stay API
 
-## 🌐 Azure Deployment 
+## 🌐 Demo Video & Azure Deployment & Source Code  
 
+- [Demo Video Link](https://www.youtube.com/watch?v=vxq3_uN50zY)
 - [Azure Web App Link](https://shorttermstayapi-ataekren-fmekgcafc4c0bbb2.westeurope-01.azurewebsites.net/swagger/index.html)
-
-## 🔗 Source Code
-
 - [GitHub Repository Link](https://github.com/ataekren/ShortTermStayWebAPI)
 
 ## 🎯 Project Overview
