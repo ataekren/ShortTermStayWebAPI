@@ -1,0 +1,5 @@
+.vs
+ShortTermStayAPI/bin/
+ShortTermStayAPI/obj/
+ShortTermStayAPI/Properties/
+ShortTermStayAPI/appsettings.json
