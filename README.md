@@ -1,8 +1,12 @@
 # Short Term Stay API
 
+## 🌐 Azure Deployment 
+
+- [Azure Web App Link](https://shorttermstayapi-ataekren-fmekgcafc4c0bbb2.westeurope-01.azurewebsites.net/swagger/index.html)
+
 ## 🔗 Source Code
 
-- GitHub Repository: https://github.com/ataekren/ShortTermStayWebAPI
+- [GitHub Repository Link](https://github.com/ataekren/ShortTermStayWebAPI)
 
 ## 🎯 Project Overview
 
