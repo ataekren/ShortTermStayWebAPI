@@ -15,5 +15,14 @@ namespace ShortTermStayAPI.Data
         public DbSet<Booking> Bookings { get; set; }
         public DbSet<Review> Reviews { get; set; }
         public DbSet<User> Users { get; set; }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            base.OnModelCreating(modelBuilder);
+
+            modelBuilder.Entity<Listing>()
+                .Property(l => l.PricePerNight)
+                .HasColumnType("decimal(18, 2)");
+        }
     }
 }
